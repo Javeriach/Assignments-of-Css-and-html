@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0%;
+    padding: 0%;
+
+}
+
+   a{
+    color: white;
+   }
+.btn{
+     color: rgb(247, 240, 240);
+    background-color: #272525;
+    border-radius: 10px;
+    width: 206px;
+    margin: auto;
+    height: 42px;
+ 
+}
+.underline{
+    text-decoration: none;
+}
+
+
+p{
+    font-weight: normal;
+    font-size: 15px;
+    color: black;
+}
+.container{
+ width: 1100px;
+ margin: auto;
+ margin-top: 25px;
+}
+.display{
+    display: inline-block;
+}
+.text-center{
+    text-align: center;
+}
+.card{
+    width: 200px;
+    border: 3px solid black;
+}
+.p-1{
+    padding: 40px;
+}
+
+.fa-brands {
+    font-size: 50px;
+}
+.twitter{
+    background-color: dodgerblue;
+    color: white;
+}
+
+.instagram{
+    
+    background: #f09433; 
+    background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
+    background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+    background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
+     color: white;
+}
+.YT{
+    background-color:#FF0000 ;
+    color: white;
+}
+button:hover{
+    background-color: rgb(216, 145, 145);
+}
+a:hover{
+    color: black;
+}
+       
+
+
+
+
+
+
+
